@@ -64,7 +64,7 @@ This project strengthened my mathematical foundation in probability, noise model
 This work trained me to solve signal recovery problems under uncertainty, which is similar to reconstructing clean KPIs or detecting faults from noisy network measurements — a key challenge in AI-driven RAN control.
 <div align="center">
 
-| ![Picture 3-1](./pictures/Picture%203-1.png) | ![Picture 3-2](./pictures/Picture%203-2.png) | ![Picture 3-3](./pictures/Picture%203-3.png) |
+ ![Picture 3-1](./pictures/Picture%203-1.png)  ![Picture 3-2](./pictures/Picture%203-2.png)  ![Picture 3-3](./pictures/Picture%203-3.png) 
 
 </div>
 
